@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jun Beom</h1>
-<h3 align="center">Student at UGA, Athens🌟.</h3>
+<h3 align="center">Developer, Trasnlator🌟.</h3>
 
 <br>
 
@@ -88,6 +88,6 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jb69535&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=jb69535&theme=dark" alt="adam-pw" /></p>
 
 [jb69535](https://github.com/jb69535)
