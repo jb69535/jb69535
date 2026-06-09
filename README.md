@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jun Beom</h1>
-<h3 align="center">Developer, Trasnlator🌟.</h3>
+<h3 align="center">Developer, Game Localization Specialist, and a Game Designer🌟.</h3>
 
 <br>
 
